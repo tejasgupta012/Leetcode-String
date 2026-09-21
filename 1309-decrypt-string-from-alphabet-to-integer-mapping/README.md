@@ -7,7 +7,7 @@
 
 <p>Return <em>the string formed after mapping</em>.</p>
 
-<p>The test cases are generated so that a unique mapping will always exist.</p>
+<p>The test cases are generatedd so that a unique mapping will always exist.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
